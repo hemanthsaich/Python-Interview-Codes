@@ -27,3 +27,6 @@ Welcome to the Python Interview Codes repository – your go-to resource for mas
 
 ### 8.Leap Year or Not
 * [Solution:][/8.Leap Year or Not/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/8.Leap%20Year%20or%20Not.ipynb)
+
+### 9.Check Prime Number or Not
+* [Solution][/9.PrimeNumber.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/9.Prime%20Number.ipynb)
