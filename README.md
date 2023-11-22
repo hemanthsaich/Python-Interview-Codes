@@ -35,4 +35,4 @@ Welcome to the Python Interview Codes repository – your go-to resource for mas
 * [Solution][/10.Prime Numbers In a Given Range.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/10.Prime%20Numbers%20In%20a%20Given%20Range.ipynb)
   
 ### 11.Sum of Digits of a Number
-* [Solution][/11.Sum of Digits of a Number.ipynb/.](https://github.com/hemantsaich/Python-Interview-Codes/blob/main/11.Sum%20of%20Digits%20of%20a%20Number.ipynb)
+* [Solution][/11.Sum of Digits of a Number.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/11.Sum%20of%20Digits%20of%20a%20Number.ipynb)
