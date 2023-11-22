@@ -31,7 +31,7 @@ Welcome to the Python Interview Codes repository – your go-to resource for mas
 ### 9.Check Prime Number or Not
 * [Solution][/9.PrimeNumber.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/9.Prime%20Number.ipynb)
 
-### /10.Prime Numbers In a Given Range 
+### 10.Prime Numbers In a Given Range 
 * [Solution][/10.Prime Numbers In a Given Range.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/10.Prime%20Numbers%20In%20a%20Given%20Range.ipynb)
   
 ### 11.Sum of Digits of a Number
