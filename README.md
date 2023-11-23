@@ -29,13 +29,13 @@ Welcome to the Python Interview Codes repository – your go-to resource for mas
 * [Solution:][/8.Leap Year or Not/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/8.Leap%20Year%20or%20Not.ipynb)
 
 ### 9.Check Prime Number or Not
-* [Solution][/9.PrimeNumber.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/9.Prime%20Number.ipynb)
+* [Solution:][/9.PrimeNumber.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/9.Prime%20Number.ipynb)
 
 ### 10.Prime Numbers In a Given Range 
-* [Solution][/10.Prime Numbers In a Given Range.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/10.Prime%20Numbers%20In%20a%20Given%20Range.ipynb)
+* [Solution:][/10.Prime Numbers In a Given Range.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/10.Prime%20Numbers%20In%20a%20Given%20Range.ipynb)
   
 ### 11.Sum of Digits of a Number
-* [Solution][/11.Sum of Digits of a Number.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/11.Sum%20of%20Digits%20of%20a%20Number.ipynb)
+* [Solution:][/11.Sum of Digits of a Number.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/11.Sum%20of%20Digits%20of%20a%20Number.ipynb)
 
 ### 12.Reverse a Number
-* [Solution](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/12.Reverse%20a%20Number.ipynb)
+* [Solution:][/12.Reverse a Number.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/12.Reverse%20a%20Number.ipynb)
