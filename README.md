@@ -36,3 +36,6 @@ Welcome to the Python Interview Codes repository – your go-to resource for mas
   
 ### 11.Sum of Digits of a Number
 * [Solution][/11.Sum of Digits of a Number.ipynb/.](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/11.Sum%20of%20Digits%20of%20a%20Number.ipynb)
+
+### 12.Reverse a Number
+* [Solution](https://github.com/hemanthsaich/Python-Interview-Codes/blob/main/12.Reverse%20a%20Number.ipynb)
